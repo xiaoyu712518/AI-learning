@@ -14,3 +14,13 @@ My goal:
 - Build small AI projects
 Day 1:
 Learned how to install Python and run my first program.
+## Day 1
+
+Learned:
+- Install Python
+- Print output
+- Variables
+- Input
+- If statements
+
+Built my first interactive Python programs.
