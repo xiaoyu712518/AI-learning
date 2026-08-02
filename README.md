@@ -12,3 +12,5 @@ My goal:
 - Learn Python
 - Understand AI
 - Build small AI projects
+Day 1:
+Learned how to install Python and run my first program.
